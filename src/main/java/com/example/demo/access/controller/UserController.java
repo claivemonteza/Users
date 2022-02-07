@@ -25,7 +25,7 @@ import com.example.demo.access.service.UserService;
 
 
 @RestController
-@RequestMapping(value="library/v1/users")
+@RequestMapping(value="api/v1/users")
 public class UserController {
 
 	@Autowired

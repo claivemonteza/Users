@@ -21,7 +21,7 @@ import com.example.demo.access.dto.ProfileDTO;
 import com.example.demo.access.service.ProfileService;
 
 @RestController
-@RequestMapping(value="library/v1/profiles")
+@RequestMapping(value="api/v1/profiles")
 public class ProfileController {
 
 	@Autowired

@@ -22,7 +22,7 @@ import com.example.demo.access.service.TransactionService;
 import com.example.demo.access.service.wrapper.ListWrapper;
 
 @RestController
-@RequestMapping(value="library/v1/transactions")
+@RequestMapping(value="api/v1/transactions")
 public class TransactionController {
 
 	@Autowired
