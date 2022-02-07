@@ -1,0 +1,36 @@
+[{
+    "description":"Ver transações",
+    "descriptionEN":"View transactions"
+},
+{
+    "description":"Criar transação",
+    "descriptionEN":"Create transaction"
+},
+{
+    "description":"Actualizar transação",
+    "descriptionEN":"Update transaction"
+},
+{
+    "description":"Ver perfil",
+    "descriptionEN":"View profile"
+},
+{
+    "description":"Criar perfil",
+    "descriptionEN":"Create profile"
+},
+{
+    "description":"Actualizar perfil",
+    "descriptionEN":"Update profile"
+},
+{
+    "description":"Ver utilizador",
+    "descriptionEN":"View user"
+},
+{
+    "description":"Criar utilizador",
+    "descriptionEN":"Create user"
+},
+{
+    "description":"Actualizar utilizador",
+    "descriptionEN":"Update User"
+}]
