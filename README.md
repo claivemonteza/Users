@@ -6,6 +6,7 @@ This project is a users rest api
 - Spring Boot
 - Maven
 - Java
+- JSON
 
 ## API
 This API base URL is https://users-restfull.herokuapp.com/ and can be used to access the following endpoints :
