@@ -15,7 +15,7 @@ This API base URL is https://users-restfull.herokuapp.com/ and can be used to ac
 - endpoint -```/api/v1/users/save```
 #### json
 {
-    "id":1
+    "id":1,
 		"name": "John Cena",
 		"username": "Jhon",
 		"email": "john.cena@gmail.com",
@@ -34,7 +34,7 @@ This API base URL is https://users-restfull.herokuapp.com/ and can be used to ac
 		"email": "jim.carry@gmail.com",
 		"password": "12345",
 		"profileId": 1,
-		"language": "PORTUGUESE"
+		"language": "ENGLISH"
 }
 
 ### Delete  (DELETE)
