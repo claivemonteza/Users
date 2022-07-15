@@ -2,6 +2,10 @@
 
 This project is a users rest api 
 
+<div align="center">
+  <img alt="image" src="https://raw.githubusercontent.com/claivemonteza/Users/main/API.png">
+</div>
+
 ## Technologies
 - Spring Boot
 - Maven
@@ -268,3 +272,5 @@ This API base URL is https://users-restfull.herokuapp.com/ and can be used to ac
     "descriptionEN":"Update User"
 }]
 
+##Test API
+https://users-restfull.herokuapp.com/swagger-ui/index.html
